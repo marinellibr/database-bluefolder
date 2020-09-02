@@ -1,0 +1,12 @@
+insert into historico_profissional (id_hp, id_pp, nome_empresa, funcao, descricao, data_inicio, data_termino) values (1, 1, 'Zoovu', 'Graphic Designer', 'Diverse client-server intranet', '1980-12-16 10:17:09', '1981-06-09 14:03:34');
+insert into historico_profissional (id_hp, id_pp, nome_empresa, funcao, descricao, data_inicio, data_termino) values (2, 2, 'Linktype', 'Associate Professor', 'Decentralized optimal productivity', '1986-12-22 20:26:01', '1978-10-16 20:41:43');
+insert into historico_profissional (id_hp, id_pp, nome_empresa, funcao, descricao, data_inicio, data_termino) values (3, 3, 'Podcat', 'Product Engineer', 'Future-proofed optimizing open system', '1991-02-18 11:10:15', '1998-08-01 11:00:56');
+insert into historico_profissional (id_hp, id_pp, nome_empresa, funcao, descricao, data_inicio, data_termino) values (4, 4, 'Reallinks', 'Sales Associate', 'Public-key static concept', '1980-09-14 19:47:27', '1988-06-21 20:52:49');
+insert into historico_profissional (id_hp, id_pp, nome_empresa, funcao, descricao, data_inicio, data_termino) values (5, 5, 'Dabtype', 'Programmer Analyst III', 'Integrated directional encoding', '1965-07-07 07:34:50', '1956-11-26 21:08:11');
+insert into historico_profissional (id_hp, id_pp, nome_empresa, funcao, descricao, data_inicio, data_termino) values (6, 6, 'Meemm', 'Senior Financial Analyst', 'Centralized zero defect hardware', '1966-09-18 06:20:03', '1976-07-23 21:00:58');
+insert into historico_profissional (id_hp, id_pp, nome_empresa, funcao, descricao, data_inicio, data_termino) values (7, 7, 'Kwideo', 'Administrative Assistant I', 'Managed client-server moderator', '1952-07-18 18:18:20', '1989-10-16 10:10:00');
+insert into historico_profissional (id_hp, id_pp, nome_empresa, funcao, descricao, data_inicio, data_termino) values (8, 8, 'Kimia', 'Geological Engineer', 'User-friendly scalable methodology', '2001-06-12 12:33:10', '1974-08-03 10:48:28');
+insert into historico_profissional (id_hp, id_pp, nome_empresa, funcao, descricao, data_inicio, data_termino) values (9, 9, 'Divape', 'Junior Executive', 'Switchable asymmetric functionalities', '1963-06-01 02:53:47', '1955-04-02 01:05:13');
+insert into historico_profissional (id_hp, id_pp, nome_empresa, funcao, descricao, data_inicio, data_termino) values (10, 10, 'Linktype', 'VP Quality Control', 'Synergized radical solution', '2009-08-18 22:37:06', '1987-01-13 23:48:43');
+
+select * from historico_profissional;
